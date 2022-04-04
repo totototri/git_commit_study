@@ -1,2 +1,3 @@
-
-fasvva
+<?php
+$test = 1;
+?>
